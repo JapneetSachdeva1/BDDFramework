@@ -29,6 +29,11 @@ public class DriverManager
         driver.get(url);
     }
 
+    public String getCurrentPageUrl()
+    {
+      return driver.getCurrentUrl();
+    }
+
     public void tearDown()
     {
         driver.quit();

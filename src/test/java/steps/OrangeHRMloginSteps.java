@@ -10,7 +10,7 @@ import pages.LoginPage;
 import utils.DriverManager;
 
 
-public class OrangeHRMlogin
+public class OrangeHRMloginSteps
 {
     //Objects
     DriverManager manager = new DriverManager();

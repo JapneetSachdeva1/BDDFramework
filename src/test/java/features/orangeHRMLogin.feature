@@ -1,4 +1,4 @@
-@OrangeHRMlogin
+@OrangeHRMlogin @smoke
 Feature: Validate login page is working as expected
 
   Scenario: Validate as a user I am able to login
