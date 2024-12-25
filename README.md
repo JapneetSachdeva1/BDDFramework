@@ -1,3 +1,15 @@
+Skills gained: 
+- Test Automation Framework Design
+- Behavior-Driven Development (BDD)
+- TestNG Configuration and Execution
+- Advanced Reporting with ExtentReports
+- Selenium WebDriver Automation
+- Maven Build and Dependency Management
+- Agile Testing Skills
+- Modularization and Code Reusability
+- API Testing and Configuration
+- Debugging and Issue Resolution
+
 Top-Level Directories
 
 - testng.xml
